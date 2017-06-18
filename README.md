@@ -1,11 +1,6 @@
-# docker-php-base
-Base for php
+# docker-httpd-base
+Base for httpd
 
-- gd
-- mbstring
-- mysqli
-- opcache
-- pdo 
-- pdo_mysql 
-- tokenizer 
-- xml
+- Cache modules
+- Rewrite
+- Actions
